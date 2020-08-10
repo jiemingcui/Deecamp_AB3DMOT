@@ -1,4 +1,5 @@
 numba==0.43.1
+alfred-py
 
 # python 3.6
 # llvmlite==0.32.1 			
